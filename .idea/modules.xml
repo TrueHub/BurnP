@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/XsleepBurn.iml" filepath="$PROJECT_DIR$/.idea/modules/XsleepBurn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../XsleepBurn/.idea/modules/XsleepBurn_main.iml" filepath="$PROJECT_DIR$/../XsleepBurn/.idea/modules/XsleepBurn_main.iml" group="XsleepBurn" />
+      <module fileurl="file://$PROJECT_DIR$/../XsleepBurn/.idea/modules/XsleepBurn_test.iml" filepath="$PROJECT_DIR$/../XsleepBurn/.idea/modules/XsleepBurn_test.iml" group="XsleepBurn" />
+    </modules>
+  </component>
+</project>
